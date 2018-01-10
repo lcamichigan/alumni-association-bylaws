@@ -1,4 +1,4 @@
-# Bylaws of Sigma Alumni Association of Lambda Chi Alpha, Inc.
+# Bylaws of Sigma Alumni Association
 
 ## Contents
 
