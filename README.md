@@ -38,37 +38,36 @@ conducted by, and under the supervision of, the Board of Directors, subject to
 the provisions of the Articles of Incorporation and these Bylaws.
 
 2. <a name="number-quorum-and-voting"></a>_Number, Quorum and Voting_. The
-number of Directors shall be twelve&nbsp;(12), of whom nine&nbsp;(9) shall be
-Alumni Members, including the Chapter Adviser (High Pi), and three&nbsp;(3)
-shall be Active Members by virtue of the undergraduate offices held in the
-Active Chapter: President (High Alpha), treasurer (High Tau) and Alumni
-Secretary (High Rho). Seven&nbsp;(7) Directors shall constitute a quorum for the
-transaction of any business properly to come before the Board of Directors, of
-which at least four&nbsp;(4) shall be Alumni Members. The act of a majority of
-Directors present at a meeting at which a quorum is present shall be the act of
-the Board of Directors.
+number of Directors shall be twelve (12), of whom nine (9) shall be Alumni
+Members, including the Chapter Adviser (High Pi), and three (3) shall be Active
+Members by virtue of the undergraduate offices held in the Active Chapter:
+President (High Alpha), treasurer (High Tau) and Alumni Secretary (High Rho).
+Seven (7) Directors shall constitute a quorum for the transaction of any
+business properly to come before the Board of Directors, of which at least
+four (4) shall be Alumni Members. The act of a majority of Directors present at
+a meeting at which a quorum is present shall be the act of the Board of
+Directors.
 
 3. _Election of Directors_. Subject to the requirements of
-[Section&nbsp;2](#number-quorum-and-voting) above, the initial Board of
-Directors shall be appointed by the incorporator. Subsequent elections of
-Directors shall be held at the annual meeting of the Board of Directors.
+[Section 2](#number-quorum-and-voting) above, the initial Board of Directors
+shall be appointed by the incorporator. Subsequent elections of Directors shall
+be held at the annual meeting of the Board of Directors.
 
 4. _Terms and Vacancies_. Alumni Directors, other than the Chapter Adviser,
-shall hold office for a term of two&nbsp;(2) years and until their successors
-are elected. At the organizational meeting of the Corporation, half of the
-Alumni Directors&nbsp;(4) shall be elected for a one-year term and the other
-half&nbsp;(4) shall be elected for two-year terms. In each subsequent year, at
-the Annual Meeting of the Corporation, four&nbsp;(4) Directors shall be elected
-to two-year terms. There shall be no limit on the number of terms a Director may
-serve. Any vacancy on the Board of Directors shall be filled by the Board of
-Directors.
+shall hold office for a term of two (2) years and until their successors are
+elected. At the organizational meeting of the Corporation, half of the Alumni
+Directors (4) shall be elected for a one-year term and the other half (4) shall
+be elected for two-year terms. In each subsequent year, at the Annual Meeting of
+the Corporation, four (4) Directors shall be elected to two-year terms. There
+shall be no limit on the number of terms a Director may serve. Any vacancy on
+the Board of Directors shall be filled by the Board of Directors.
 
 5. _Meetings of Directors and Notice of Meetings_. An annual meeting of the
 Board of Directors shall be held in conjunction with Sigma Zeta’s celebration of
 Founders Day in March of each year. Special meetings of the Directors may be
 held at the call of the President with the Secretary sending notice of such
-meetings to the Directors by postal or electronic means not less than
-four&nbsp;(4) days before such meetings.
+meetings to the Directors by postal or electronic means not less than four (4)
+days before such meetings.
 
 6. _Action By Written Consent_. Any action required or permitted to be taken at
 any meeting of the Board of Directors, or any committee thereof, may be taken
@@ -83,14 +82,14 @@ signs the consent, unless the consent specifies a specific effective date.
 1. _Officers_. Officers shall be elected by the Board of Directors. The officers
 of the Corporation shall be a President, a Vice President, a Secretary and a
 Treasurer, and such other officers as the Board of Directors may otherwise
-elect. An officer may simultaneously hold more than one&nbsp;(1) office. Each
-officer shall be elected by the Board of Directors at a regular or special
-meeting and shall serve for two&nbsp;(2) years, or such other period as
-prescribed by the Directors at the time of election, and until the officer’s
-successor is elected. Any officer may be removed by majority vote of the Board
-of Directors at any time, with or without cause. Any vacancy occurring in any
-office shall be filled by the Board of Directors, and the person elected to fill
-such vacancy shall serve until the expiration of the term vacated.
+elect. An officer may simultaneously hold more than one (1) office. Each officer
+shall be elected by the Board of Directors at a regular or special meeting and
+shall serve for two (2) years, or such other period as prescribed by the
+Directors at the time of election, and until the officer’s successor is elected.
+Any officer may be removed by majority vote of the Board of Directors at any
+time, with or without cause. Any vacancy occurring in any office shall be filled
+by the Board of Directors, and the person elected to fill such vacancy shall
+serve until the expiration of the term vacated.
 
 2. _President_. The President shall be the Chief Executive Officer of the
 Corporation and Chairman of the Board of Directors. He shall preside at all
@@ -186,60 +185,59 @@ indemnification for the expenses which the court considers proper.
     1. To the extent that Director, officer, employee, volunteer or agent of the
     Corporation has been successful on the merits or otherwise in defense of an
     action, suit or proceeding referred to in
-    [Section&nbsp;1](#indemnification-third-party-actions) or
-    [Section&nbsp;2](#indemnification-actions-in-the-right-of-the-corporation)
-    of this Article, or in defense of a claim, issue or matter in the action,
-    suit, or proceeding, that person shall be indemnified against expenses
-    (including actual and reasonable attorneys’ fees) incurred by that person in
-    connection with the action, suit or proceeding as well as in connection with
-    the action, suit or proceeding brought to enforce the mandatory
-    indemnification provided in this Subsection.
+    [Section 1](#indemnification-third-party-actions) or
+    [Section 2](#indemnification-actions-in-the-right-of-the-corporation) of
+    this Article, or in defense of a claim, issue or matter in the action, suit,
+    or proceeding, that person shall be indemnified against expenses (including
+    actual and reasonable attorneys’ fees) incurred by that person in connection
+    with the action, suit or proceeding as well as in connection with the
+    action, suit or proceeding brought to enforce the mandatory indemnification
+    provided in this Subsection.
 
     2. An indemnification under
-    [Section&nbsp;1](#indemnification-third-party-actions) or
-    [Section&nbsp;2](#indemnification-actions-in-the-right-of-the-corporation)
-    of this Article, unless ordered by a court, shall be made by this
-    Corporation only as authorized in a specific case upon a determination that
+    [Section 1](#indemnification-third-party-actions) or
+    [Section 2](#indemnification-actions-in-the-right-of-the-corporation) of
+    this Article, unless ordered by a court, shall be made by this Corporation
+    only as authorized in a specific case upon a determination that
     indemnification of the Director, officer, employee, volunteer or agent is
     proper in the circumstances because that person has met the applicable
     standard of conduct as set forth in either
-    [Section&nbsp;1](#indemnification-third-party-actions) or
-    [Section&nbsp;2](#indemnification-actions-in-the-right-of-the-corporation).
-    That determination shall be made in any of the following ways:
+    [Section 1](#indemnification-third-party-actions) or
+    [Section 2](#indemnification-actions-in-the-right-of-the-corporation). That
+    determination shall be made in any of the following ways:
 
         1. By majority vote of a quorum of the Board consisting of Directors who
         were not parties to the action, suit or proceeding.
 
         2. If that quorum is not obtainable, then by a majority vote of a
         Committee of Directors who were not parties to the action, suit, or
-        proceeding. The Committee shall consist of not less than two&nbsp;(2)
+        proceeding. The Committee shall consist of not less than two (2)
         disinterested Directors.
 
         3. By independent legal counsel in a written opinion.
 
     3. If a person is entitled to indemnification under
-    [Section&nbsp;1](#indemnification-third-party-actions) or
-    [Section&nbsp;2](#indemnification-actions-in-the-right-of-the-corporation)
-    of this Article for a portion of expenses including attorneys’ fees,
-    judgments, penalties, fines, and amounts paid in settlement, but not for the
-    total amount thereof, the Corporation may indemnify the person for the
-    portion of the expenses, judgments, penalties, fines, or amounts paid in
-    settlement for which the person is entitled to be indemnified.
+    [Section 1](#indemnification-third-party-actions) or
+    [Section 2](#indemnification-actions-in-the-right-of-the-corporation) of
+    this Article for a portion of expenses including attorneys’ fees, judgments,
+    penalties, fines, and amounts paid in settlement, but not for the total
+    amount thereof, the Corporation may indemnify the person for the portion of
+    the expenses, judgments, penalties, fines, or amounts paid in settlement for
+    which the person is entitled to be indemnified.
 
 4. <a name="indemnification-expense-advances"></a>_Indemnification: Expense
 Advances_. Expenses incurred in defending a civil or criminal action, suit or
-proceeding described in [Section&nbsp;1](#indemnification-third-party-actions)
-or [Section&nbsp;2](#indemnification-actions-in-the-right-of-the-corporation) of
-this Article may be paid by this Corporation in advance of the final disposition
-of the action, suit, or proceeding upon receipt of an undertaking by or on
-behalf of the Director, officer, employee, volunteer or agent to repay the
-expense if it is ultimately determined that the person is not entitled to be
-indemnified by this Corporation. The undertaking shall be by unlimited general
-obligation of the person on whose behalf advances are made but need not be
-secured.
+proceeding described in [Section 1](#indemnification-third-party-actions)
+or [Section 2](#indemnification-actions-in-the-right-of-the-corporation) of this
+Article may be paid by this Corporation in advance of the final disposition of
+the action, suit, or proceeding upon receipt of an undertaking by or on behalf
+of the Director, officer, employee, volunteer or agent to repay the expense if
+it is ultimately determined that the person is not entitled to be indemnified by
+this Corporation. The undertaking shall be by unlimited general obligation of
+the person on whose behalf advances are made but need not be secured.
 
 5. _Indemnification: Continuation of Right_. The indemnification provided in
-[Sections&nbsp;1](#indemnification-third-party-actions) through
+[Sections 1](#indemnification-third-party-actions) through
 [4](#indemnification-expense-advances) of this Article shall continue as to a
 person who has ceased to be a Director, officer, employee, volunteer or agent
 and shall inure to the benefit of the heirs, executors and administrators of any
@@ -248,7 +246,7 @@ entitled to indemnification.
 
 6. <a name="indemnification-hereunder-not-exclusive"></a>_Indemnification,
 Hereunder Not Exclusive_. The indemnification or advancement of expenses
-provided in [Section&nbsp;1](#indemnification-third-party-actions) through
+provided in [Section 1](#indemnification-third-party-actions) through
 [4](#indemnification-expense-advances) of this Article is not exclusive of other
 rights to which a person seeking indemnification or advancement of expenses may
 be entitled under the Articles of Incorporation, Bylaws or a contractual
@@ -264,7 +262,7 @@ corporation, partnership, joint venture, trust or other enterprise against any
 liability asserted against the person and incurred by the person in any such
 capacity or arising out of his or her status as such, whether or not the
 Corporation would have the power to indemnify the person against such liability
-under [Sections&nbsp;1](#indemnification-third-party-actions) through
+under [Sections 1](#indemnification-third-party-actions) through
 [6](#indemnification-hereunder-not-exclusive) of this Article.
 
 8. _Mergers_. For purposes of this Article, references to the “corporation”
@@ -311,12 +309,12 @@ the Zeta and of the Corporation which remain unpaid at the time the assets are
 transferred to the trustee. During the term of the trust the income of the trust
 fund shall be paid to Lambda Chi Alpha Educational Foundation, Inc. of
 Indianapolis, Indiana. If this Zeta is reactivated within a period of
-twenty&nbsp;(20) years from the date of the commencement of this trust, the
-trust shall terminate and the proceeds shall be distributed to a not-for-profit
+twenty (20) years from the date of the commencement of this trust, the trust
+shall terminate and the proceeds shall be distributed to a not-for-profit
 corporation which shall be organized for the same purposes as this Corporation
 was organized. In the event that this Zeta is not reactivated within this term
-of twenty&nbsp;(20) years, then at the end of this term the trust shall
-terminate and the proceeds shall be distributed to Lambda Chi Alpha Educational
+of twenty (20) years, then at the end of this term the trust shall terminate and
+the proceeds shall be distributed to Lambda Chi Alpha Educational
 Foundation, Inc. of Indianapolis, Indiana.
 
 2. _Dissolution_. Should this Corporation be dissolved while Sigma Zeta is still
