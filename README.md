@@ -328,7 +328,7 @@ Lambda Chi Alpha Fraternity, Incorporated, of Indianapolis, Indiana, shall be
 used for the benefit of Sigma Zeta of Lambda Chi Alpha at the University of
 Michigan.
 
-## VIII. Amendments
+## Article VIII. Amendments
 
 The power to make, alter, amend, or repeal the Bylaws is vested in the Board of
 Directors of the Corporation.
