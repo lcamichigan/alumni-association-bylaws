@@ -300,7 +300,7 @@ Corporation on such terms as the Board of Directors shall determine.
 
 1. _Suspension_. In the event that the charter of Sigma Zeta of Lambda Chi Alpha
 Fraternity at the University of Michigan is suspended or revoked for any reason,
-all of the property, both real and personal, belonging to this a Zeta and to the
+all of the property, both real and personal, belonging to this Zeta and to the
 Corporation shall pass to Lambda Chi Alpha Fraternity, Incorporated, of
 Indianapolis, Indiana, in trust for the following purposes: The property may be
 held or sold in the sole discretion of the trustee. The trustee shall, if
