@@ -298,24 +298,10 @@ Corporation on such terms as the Board of Directors shall determine.
 
 ## Article VII. Suspension of Chapter Operations, Dissolution of Corporation
 
-1. _Suspension_. In the event that the charter of Sigma Zeta of Lambda Chi Alpha
-Fraternity at the University of Michigan is suspended or revoked for any reason,
-all of the property, both real and personal, belonging to this Zeta and to the
-Corporation shall pass to Lambda Chi Alpha Fraternity, Incorporated, of
-Indianapolis, Indiana, in trust for the following purposes: The property may be
-held or sold in the sole discretion of the trustee. The trustee shall, if
-sufficient trust funds are available, first pay any outstanding liabilities of
-the Zeta and of the Corporation which remain unpaid at the time the assets are
-transferred to the trustee. During the term of the trust the income of the trust
-fund shall be paid to Lambda Chi Alpha Educational Foundation, Inc. of
-Indianapolis, Indiana. If this Zeta is reactivated within a period of
-twenty (20) years from the date of the commencement of this trust, the trust
-shall terminate and the proceeds shall be distributed to a not-for-profit
-corporation which shall be organized for the same purposes as this Corporation
-was organized. In the event that this Zeta is not reactivated within this term
-of twenty (20) years, then at the end of this term the trust shall terminate and
-the proceeds shall be distributed to Lambda Chi Alpha Educational
-Foundation, Inc. of Indianapolis, Indiana.
+1. _Suspension_. In the event that Sigma Zeta of Lambda Chi Alpha Fraternity at
+the University of Michigan becomes defunct, all property of this Zeta and the
+Corporation shall pass into a Chapter Rehabilitation Account under the terms of
+Code 5-6 of the ΛΧΑ Statutory Code.
 
 2. _Dissolution_. Should this Corporation be dissolved while Sigma Zeta is still
 an active chapter of Lambda Chi Alpha Fraternity, all property, real and
